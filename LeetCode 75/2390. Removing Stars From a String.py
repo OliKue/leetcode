@@ -7,4 +7,3 @@ class Solution:
             else:
                 retStr.pop()
         return ''.join(retStr)
-    
